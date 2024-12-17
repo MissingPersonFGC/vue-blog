@@ -19,7 +19,7 @@
     "http": "^0.0.1-security",
     "http-proxy-middleware": "^1.0.5",
     "jsonwebtoken": "^8.5.1",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "mavon-editor": "^2.9.0",
     "mongoose": "^5.9.27",
     "nuxt": "^2.14.0",
